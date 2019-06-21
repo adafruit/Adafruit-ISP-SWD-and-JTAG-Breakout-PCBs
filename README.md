@@ -12,7 +12,7 @@ For more details, check out the product pages at
 * https://www.adafruit.com/products/2094 (JTAG to SWD)
 * https://www.adafruit.com/products/2743 (SWD breakout)
 
-### Description
+### Descriptions
 
 **AVR ISP:** It's rare to find a mini kit so elegant, it deserves its own Haiku. A simple breakout, 2x3 box header in the center, two 1x3's on the side. Plugs into any breadboard for neat wiring (in both nifty and clean senses of the word).
 
